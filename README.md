@@ -6,5 +6,4 @@ Miniature indoor robotic airship platforms offer high mobility, safety, and exte
 This repository contains:
 * CAD files of the airship platform
 * Assembly guide
-* On-board configuration and ROS interface
-* Off-board ROS package for flight control and path following
+* ROS interface for flight control and path following
