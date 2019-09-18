@@ -1,1 +1,2 @@
-Coming soon...
+# Assembly Guide
+Coming soon.
